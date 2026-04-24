@@ -11,3 +11,21 @@
     border: 5px solid black;
 }
 
+.challenge-box-1 {
+    background-color: rgb(219, 255, 219);
+    width: 100vw;
+    height: 30%;
+    display: block;
+}
+
+.challenge-box-2 {
+    background-color: lightgoldenrodyellow;
+    width: 100vw;
+    height: 30%;
+    display: block;
+}
+
+.challenge-box-3 {
+    background-color: lightblue;
+    width: 100vw;
+}
